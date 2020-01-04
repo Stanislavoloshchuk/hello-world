@@ -3,7 +3,8 @@ Learning Python
 import this # Zen of Python
 wish to learn:
     Python
-    Django(logging, celery, allauth, mptt, pytz, compressor, sorl-thumbnail, requests, cache framework, sendfile, reversion…)        
+    Django(logging, celery, allauth, mptt, pytz, compressor, sorl-thumbnail, requests, cache framework, sendfile, reversion…)
+        Supporting on of those DB: PostgreSQL, MySQL, Oracle, SQLite
     Frameworks (Flask, CherryPy, Bottle, Tornado, Twisted, aiohttp, asyncio)
     Linux
         Bash 
