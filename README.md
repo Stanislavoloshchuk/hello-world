@@ -31,3 +31,4 @@ wish to learn:
         HTML/CSS/JavaScript (NodeJS, ES6, less/sass, jQuery, React/Angular)
         CI/CD process
         Asynchronous programming
+	heeyyy!
